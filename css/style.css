@@ -35,16 +35,17 @@ body {
   top: 10%;
   left: 50%;
   margin-top: 105px;
-  margin-left: -145px;
-  width: 300px;
-  height: 350px;
+  margin-left: -205px;
+  width: 420px;
+  height: 320px;
   text-align: center;
   transition: all 2000ms;
 }
 
 .header-content .logo {
-  height: 300px;
-  width: 500px;
+  text-align: center;
+  height: 220px;
+  width: 400px;
 }
 
 .title {
