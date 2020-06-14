@@ -16,7 +16,7 @@ body {
   display: block;
   filter: blur(10px);
   -webkit-filter: blur(10px);
-  transition: all 1000ms;
+  transition: all 2000ms;
 }
 
 .header:hover::after {
@@ -39,12 +39,12 @@ body {
   width: 300px;
   height: 350px;
   text-align: center;
-  transition: all 1000ms;
+  transition: all 2000ms;
 }
 
 .header-content .logo {
-  height: 100px;
-  width: 100px;
+  height: 300px;
+  width: 500px;
 }
 
 .title {
